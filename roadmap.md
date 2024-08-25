@@ -10,4 +10,6 @@
 # 1 - Development
     1) 	Create a quickstart project from guid to undertand the project;
 
-    2)  Start project, by opening some page and click in element
+    2)  Start project, by opening some page and click in element;
+
+    3)  Get search param from workitems, perform search and show results in console;
