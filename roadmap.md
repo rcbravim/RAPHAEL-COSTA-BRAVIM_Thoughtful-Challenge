@@ -9,3 +9,5 @@
 
 # 1 - Development
     1) 	Create a quickstart project from guid to undertand the project;
+
+    2)  Start project, by opening some page and click in element
